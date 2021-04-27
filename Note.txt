@@ -1,0 +1,27 @@
+linh kiện cần dùng:
+MẠCH SẠC:
+	TP4056	CL00993	
+	DW01	CL01697
+	FS8205A CL00496
+	DB207S 	CL00005
+MẠCH BOOST:
+	SX1308 B628 CL08066
+	Cuộn cảm dán 4.7uH CD75 CLA1407
+	Diode Schotky SS34 SMA DO-214AA
+mạch VĐK:
+	ATmega328p
+	thạch anh 16Mhz + 12Mhz cắm
+	CH340G dán
+	Module đọc thẻ MicroSD/TF
+Khác: 
+	tụ 0805 104, 106,22pF
+	trở 0805 1k, 1k2, 10k, 4k7
+	led 0805 xanh lá, đỏ
+	Diode 1n4007 dán
+	nút nhấn 2 chân dán
+	cuộn cảm 0805 100uH 
+	cầu đấu 4P 3.96 thẳng
+	cầu đấu 3P 3.96 thẳng
+	
+	
+	
