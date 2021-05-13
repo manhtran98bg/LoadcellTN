@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LoadCellV1_1.PcbDoc   5/3/2021  10:29:56 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LoadCellV1_1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.399mm)                                           Round             41        PTH        0.00inch (0.00mm)
+T2      24mil (0.599mm)                                           Round             156       PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T4      35mil (0.899mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T5      60mil (1.524mm)                                           Round             17        PTH        0.00inch (0.00mm)
+T6      118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
+T7      39mil (1.001mm)                                           Round             10        NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              236
+
+Total Processing Time (hh:mm:ss) : 00:00:01

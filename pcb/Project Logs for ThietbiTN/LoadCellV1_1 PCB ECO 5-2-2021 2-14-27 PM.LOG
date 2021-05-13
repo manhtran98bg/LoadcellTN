@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Room: Name=U_[01] Power Supply
+Added Room: Name=U_[02] MCU
+Added Room: Name=U_[03] HMI Screen
+Added Room: Name=U_[04] CH340
+Added Room: Name=U_[05] Sensor
